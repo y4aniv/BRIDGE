@@ -1,4 +1,5 @@
 Licence BRIDGE v1.0
+-
 
 Propriété de Yaniv DOUIEB
 
@@ -35,5 +36,47 @@ Propriété de Yaniv DOUIEB
     - Cette licence est régie par les lois en vigueur dans votre pays.
 
 En acceptant cette licence, vous acceptez toutes les conditions énoncées ci-dessus.
+
+2024, BRIDGE (Yaniv DOUIEB)
+<br><br><br>
+
+BRIDGE License v1.0
+-
+
+Owned by Yaniv DOUIEB
+
+1. **Use:**
+   - You are authorized to use, copy, modify, and distribute this software for non-commercial purposes.
+
+2. **Prohibited Resale:**
+   - Reselling BRIDGE or any modified version is strictly prohibited.
+
+3. **Modification and Contributions:**
+   - You are allowed to modify the source code of BRIDGE under the following conditions:
+       - Any modification made must be clearly indicated and credited to previous contributors.
+       - Modifications must be distributed under the same license.
+
+4. **"Powered by BRIDGE" Notices:**
+   - "Powered by BRIDGE" or any equivalent notices must be present and visible in any use of the software.
+
+5. **Commercial Use:**
+   - Commercial use of BRIDGE requires a separate commercial license obtained from the software owner.
+
+6. **Custom Developments:**
+   - Any addition, improvement, or module developed specifically for BRIDGE remains the property of Yaniv DOUIEB.
+
+7. **Vulnerability Notification:**
+   - Anyone discovering security vulnerabilities in BRIDGE is obligated to report them immediately to the software owner.
+
+8. **Lack of Technical Support:**
+   - No technical support is provided for the free version of BRIDGE. Support options may be available for an additional fee.
+
+9. **License Changes:**
+    - Changes to this license are only authorized in writing by the software owner.
+
+10. **Applicable Law:**
+    - This license is governed by the laws in force in your country.
+
+By accepting this license, you agree to all the conditions stated above.
 
 2024, BRIDGE (Yaniv DOUIEB)
